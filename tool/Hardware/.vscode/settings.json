@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "oled_ui.h": "c"
+    }
+}

@@ -1,0 +1,1 @@
+bdfconv.exe -v msyh_U16.bdf -b 0 -f 1 -M chinese.map -d msyh_U16.bdf -n u8g2_font_dragon_ui_chinese -o u8g2_font_dragon_ui_chinese.c
